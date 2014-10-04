@@ -24,7 +24,7 @@
     <string name="examplenote_smileys">Don\'t Forget To Smile! ☺</string>
     <string name="examplenote_smileys_content">All android emojis can be used!</string>
 
-    <!-- New -->
+    <!-- New --> 
     <string name="noemailclientsinstalled">No email clients installed!</string>
     <string name="sendemail">Send Email</string>
     <string name="saved">Saved!</string>
