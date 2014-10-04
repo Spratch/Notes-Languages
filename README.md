@@ -10,7 +10,7 @@ For anyone who want to help translating the app.
 * Italian (values-it)
 
 
-### How to help:
+#### How to help:
 1. Download ZIP (to the right on the screen) or clone repository.
 2. Unzip folders (if you downloaded the zip)
 3. Go into values-en (or your preferred language to translate from)
