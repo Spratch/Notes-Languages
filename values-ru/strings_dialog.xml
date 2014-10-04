@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?> 
 <resources>
-    <string name="dialog_pw">Password</string>
-    <string name="dialog_newpw">New Password</string>
-    <string name="dialog_last4digits">Last 4 numbers on your creditcard</string>
-    <string name="error_wrongpassword">Wrong Password</string>
-    <string name="dialog_save">Save?</string>
+    <string name="dialog_pw">Пароль</string>
+    <string name="dialog_newpw">Новый пароль</string>
+    <string name="dialog_last4digits">Последние 4 цифры на вашей кредитной карте</string>
+    <string name="error_wrongpassword">Неправильный пароль</string>
+    <string name="dialog_save">Сохранить?</string>
 </resources>

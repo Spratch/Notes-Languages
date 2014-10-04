@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="edit_writesomething">Write Something..</string>
-    <string name="edit_tag">Tag</string>
-    <string name="edit_title">Title</string>
+    <string name="edit_writesomething">Написать что-то..</string>
+    <string name="edit_tag">Тег</string>
+    <string name="edit_title">Название</string>
 
-    <string name="hide_titlebar">Hide titlebar</string>
-    <string name="show_titlebar">Show titlebar</string>
+    <string name="hide_titlebar">Скрыть название</string>
+    <string name="show_titlebar">Показать название</string>
 
-    <string name="edit_noteemptynotsaving">Empty note</string>
-    <string name="edit_private">Private</string>
-    <string name="edit_public">Public</string>
-    <string name="edit_needtosetpw">You need to set a password first!</string>
+    <string name="edit_noteemptynotsaving">Пустая заметка</string>
+    <string name="edit_private">Личное</string>
+    <string name="edit_public">Открытое</string>
+    <string name="edit_needtosetpw">В первую очередь, необходимо установить пароль!</string>
 </resources>
