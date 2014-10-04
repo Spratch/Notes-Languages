@@ -2,27 +2,19 @@
 
     <string name="title_activity_settings">Ustawienia</string>
     <string name="settings">Ustawienia</string>
-
     <string name="pref_header_general">Ogólne</string>
     <string name="pref_title_display_name">Pokaż imię</string>
     <string name="pref_default_display_name">Jonas Borggren</string>
     <string name="pref_header_security">Bezpieczeństwo</string>
-
     <string name="settings_general">Ogólne</string>
     <string name="settings_account">Konto</string>
     <string name="settings_enabled">Włączony</string>
     <string name="settings_disabled">Wyłączony</string>
-
     <string name="settings_comingSoon">Wkrótce!</string>
-
     <string name="settings_appearance">Wygląd</string>
     <string name="settings_cards">Cards-UI</string>
-
-    <string name="settings_ok">Ok</string>
-    <string name="settings_cancel">Anuluj</string>
     <string name="settings_on">Włączony</string>
     <string name="settings_off">Wyłączony</string>
-
     <string name="settings_animations">Animacje (Eksperymentalne)</string>
     <string name="settings_secutity">Bezpieczeństwo</string>
     <string name="settings_password">Zmień hasło</string>
@@ -30,17 +22,15 @@
     <string name="settings_online">Tryb Offline</string>
     <string name="settings_currentlyOnline">Aktualnie Online</string>
     <string name="settings_currentlyOffline">Aktualnie Offline</string>
-
     <string name="settings_oldPassword">Stare hasło</string>
     <string name="settings_question_title">Pytanie bezpieczeństwa</string>
     <string name="settings_setyourpassword">Domyślnie: 1234</string>
     <string name="settings_securityquestion_summary">Miesiąc i dzień urodzenia jednego z twoich rodziców (MMDD)</string>
-
     <string name="settings_question_choose">Wybierz</string>
     <string name="settings_question_choose_passwordorquestion">Zmienić hasło lub pytanie?</string>
     <string name="settings_newQuestion">Nowa odpowiedź na pytanie bezpieczeństwa</string>
     <string name="settings_newPassword">Nowe hasło</string>
     <string name="settings_passwordtooshort">Hasło za krótkie!</string>
-
     <string name="settings_help">Domyślnie: 1234</string>
+
 </resources>

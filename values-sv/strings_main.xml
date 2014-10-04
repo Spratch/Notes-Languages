@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Development strings (No need to translate these) -->
+    <string name="helloworld">Hello World</string>
+    <string name="settings_versionhint">VersionHint</string>
+
+    <!-- App -->
     <string name="app_name">Anteckningar</string>
-    <string name="delete">Radera</string>
-    <string name="cancel">Avbryt</string>
+    <string name="notes">Anteckningar</string>
+
+    <!-- Allround usage -->
     <string name="save">Spara</string>
     <string name="empty">Tomt!</string>
     <string name="yournotes">Dina Anteckningar</string>
     <string name="addnewnote">Skapa Ny Anteckning!</string>
-    <string name="notes">Anteckningar</string>
-    <string name="discard">Kasta</string>
-
-    <string name="noemailclientsinstalled">Ingen e-post app installerad!</string>
     <string name="share">Dela</string>
-    <string name="sendemail">Skicka Epost</string>
-    <string name="saved">Sparat!</string>
+    <string name="discard">Kasta</string>
 
     <string name="examplenote_welcome">Välkommen!</string>
     <string name="examplenote_welcome_content">Välkommen till Anteckningar! Kolla G+ gruppen för information!</string>
@@ -22,4 +23,20 @@
     <string name="examplenote_password_content">I iställningarna kan man ställa in ett lösenord!</string>
     <string name="examplenote_smileys">Glöm inte att lé! ☺</string>
     <string name="examplenote_smileys_content">Alla emojis kan användas! ☺ ☺</string>
+
+    <!-- New -->
+    <string name="noemailclientsinstalled">Ingen e-post app installerad!</string>
+    <string name="sendemail">Skicka Epost</string>
+    <string name="saved">Sparat!</string>
+    <string name="settings_singleclickopen">Singelklick</string>
+    <string name="settings_singleclickopenhint">Tryck en gång för att öppna anteckning</string>
+    <string name="settings_autosave">Spara Automatiskt</string>
+    <string name="settings_autosavehint">Tryck bakåt för att spara</string>
+    <string name="settings_setpassword">Välj Lösenord</string>
+    <string name="settings_changepassword">Ändra Ditt Lösenord</string>
+    <string name="settings_nopasswordset">Inget Lösenord Än</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_cards_normal">Normal</string>
+
 </resources>

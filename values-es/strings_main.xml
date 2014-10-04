@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Development strings (No need to translate these) -->
+    <string name="helloworld">Hello World</string>
+    <string name="settings_versionhint">VersionHint</string>
+
+    <!-- App -->
     <string name="app_name">Notas</string>
-    <string name="delete">Eliminar</string>
-    <string name="cancel">Cancelar</string>
+    <string name="notes">Notas</string>
+
+    <!-- Allround usage -->
     <string name="save">Guardar</string>
     <string name="empty">¡Vacío!</string>
     <string name="yournotes">Tus notas</string>
     <string name="addnewnote">Añadir nueva nota</string>
-    <string name="notes">Notas</string>
-    <string name="share">Compartir</string>
-
     <string name="discard">Descartar</string>
+    <string name="share">Compartir</string>
 
     <string name="examplenote_welcome">¡Bienvenido!</string>
     <string name="examplenote_welcome_content">¡Bienvenido a Notas! ¡Asegúrate de pasarte por la comunidad para enterarte de las últimas novedades!</string>
@@ -19,4 +23,20 @@
     <string name="examplenote_password_content">¡Puedes establecer la contraseña en ajustes!</string>
     <string name="examplenote_smileys">¡No olvides sonreír! ☺</string>
     <string name="examplenote_smileys_content">¡Todos los emoticonos (emojis) pueden ser usados!</string>
+
+    <!-- New -->
+    <string name="noemailclientsinstalled">No Email Clients Installed</string>
+    <string name="sendemail">Send Email</string>
+    <string name="saved">Saved!</string>
+    <string name="settings_singleclickopen">Singletap</string>
+    <string name="settings_singleclickopenhint">Tap once to open note</string>
+    <string name="settings_autosave">Auto save</string>
+    <string name="settings_autosavehint">Press back to save a note</string>
+    <string name="settings_setpassword">Set A Password</string>
+    <string name="settings_changepassword">Change Your Password</string>
+    <string name="settings_nopasswordset">No password set</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_cards_normal">Normal</string>
+
 </resources>

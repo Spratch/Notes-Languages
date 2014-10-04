@@ -13,5 +13,4 @@
     <string name="menu_account">Konto</string>
     <string name="menu_login">Logga in</string>
     <string name="menu_logout">Logga ut</string>
-    <string name="menu_share">Dela</string>
 </resources>

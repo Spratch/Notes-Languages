@@ -13,8 +13,6 @@
     <string name="settings_comingSoon">Inom kort!</string>
     <string name="settings_appearance">Utseende</string>
     <string name="settings_cards">Cards-UI</string>
-    <string name="settings_ok">Ok</string>
-    <string name="settings_cancel">Avbryt</string>
     <string name="settings_on">På</string>
     <string name="settings_off">Av</string>
     <string name="settings_animations">Animationer (Experimental)</string>
@@ -34,15 +32,5 @@
     <string name="settings_newPassword">Nytt Lösenord</string>
     <string name="settings_passwordtooshort">Lösenord för kort!</string>
     <string name="settings_help">Defaults: 1234</string>
-    <string name="settings_singleclickopen">Singelklick</string>
-    <string name="settings_singleclickopenhint">Klicka en gång för att öppna</string>
-    <string name="settings_autosave">Spara Automatiskt</string>
-    <string name="settings_autosavehint">Tryck bakåt för att spara</string>
-    <string name="settings_setpassword">Ställ In Lösenord</string>
-    <string name="settings_changepassword">Ändra Lösenord</string>
-    <string name="settings_nopasswordset">Inget lösenord inställt</string>
-    <string name="settings_about">Om</string>
-    <string name="settings_version">Version</string>
-    <string name="settings_versionhint"></string>
-    <string name="settings_cards_normal">Normal</string>
+
 </resources>

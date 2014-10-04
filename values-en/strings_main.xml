@@ -2,6 +2,7 @@
 <resources>
     <!-- Development strings (No need to translate these) -->
     <string name="helloworld">Hello World</string>
+    <string name="settings_versionhint">VersionHint</string>
 
     <!-- App -->
     <string name="app_name">Notes</string>
@@ -13,11 +14,7 @@
     <string name="yournotes">Your notes</string>
     <string name="addnewnote">Add New Note</string>
     <string name="discard">Disard</string>
-
-    <string name="noemailclientsinstalled">No email clients installed!</string>
     <string name="share">Share</string>
-    <string name="sendemail">Send Email</string>
-    <string name="saved">Saved!</string>
 
     <string name="examplenote_welcome">Welcome!</string>
     <string name="examplenote_welcome_content">Welcome to Notes! Be sure to check the community for updates!</string>
@@ -26,4 +23,20 @@
     <string name="examplenote_password_content">You can set a password in the settings!</string>
     <string name="examplenote_smileys">Don\'t Forget To Smile! ☺</string>
     <string name="examplenote_smileys_content">All android emojis can be used!</string>
+
+    <!-- New -->
+    <string name="noemailclientsinstalled">No email clients installed!</string>
+    <string name="sendemail">Send Email</string>
+    <string name="saved">Saved!</string>
+    <string name="settings_singleclickopen">Singletap</string>
+    <string name="settings_singleclickopenhint">Tap once to open note</string>
+    <string name="settings_autosave">Auto save</string>
+    <string name="settings_autosavehint">Press back to save a note</string>
+    <string name="settings_setpassword">Set A Password</string>
+    <string name="settings_changepassword">Change Your Password</string>
+    <string name="settings_nopasswordset">No password set</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_cards_normal">Normal</string>
+
 </resources>

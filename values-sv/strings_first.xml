@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Backup Screen -->
+    <string name="widget_plusbutton">Visa +</string>
+    <string name="backup">Backup behövs!</string>
+    <string name="backup_msg">En backup behövs eftersom senaste uppdateringen har ändrat strukturen på databasen. Gör backup nu för att behålla dina anteckningar.</string>
+    <string name="backup_question">Vart vill du spara dina anteckningar?</string>
+    <string name="backup_tonew">Ny Databas</string>
+    <string name="backup_share">Dela Anteckningar + Ny Databas</string>
+    <string name="backup_complete">Backup färdig!</string>
+    <string name="backup_error">Du måste göra backup innan du kan fortsätta!</string>
+    <string name="backup_items">objekt</string>
+    <string name="backup_warning">Varning!</string>
+    <string name="backup_continue">FORTSÄTT</string>
+    <string name="backup_error_couldnotcreatedb">Det gick inte att skapa databas! Var god installera om appen.</string>
+    <string name="to">Till</string>
+
+    <!-- Start Setup -->
     <string name="title_activity_first">FirstActivity</string>
     <string name="first_needtocompletetutorial">Du måste slutföra startguiden!</string>
     <string name="first_welcome">Välkommen</string>

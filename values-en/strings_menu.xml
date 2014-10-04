@@ -13,5 +13,4 @@
     <string name="menu_account">Account</string>
     <string name="menu_login">Log in</string>
     <string name="menu_logout">Log out</string>
-    <string name="menu_share">Share</string>
 </resources>

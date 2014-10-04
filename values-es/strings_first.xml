@@ -17,15 +17,15 @@
     <string name="to">To</string>
 
     <!-- Start Setup -->
-    <string name="title_activity_first">Primo Avvio</string>
-    <string name="first_needtocompletetutorial">Devi completare il setup!</string>
-    <string name="first_welcome">Benvenuto</string>
-    <string name="first_welcometo">in Notes!</string>
-    <string name="first_setpassword">Imposta Una Password!</string>
-    <string name="first_beforeyoustart">Prima Di Incominciare</string>
-    <string name="first_youneedto1">Imposta una password</string>
-    <string name="first_youneedto2">Imposta il tuo stile preferito</string>
-    <string name="first_favoritestyle">Scegli il tuo stile</string>
-    <string name="first_done">Fatto</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="first_needtocompletetutorial">You need to complete the setup!</string>
+    <string name="first_welcome">Welcome</string>
+    <string name="first_welcometo">to Notes!</string>
+    <string name="first_setpassword">Set A Password!</string>
+    <string name="first_beforeyoustart">Before You Start</string>
+    <string name="first_youneedto1">Set a password</string>
+    <string name="first_youneedto2">Set your favorite style</string>
+    <string name="first_favoritestyle">Choose your style</string>
+    <string name="first_done">Done</string>
 
 </resources>
