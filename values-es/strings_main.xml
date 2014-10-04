@@ -25,18 +25,18 @@
     <string name="examplenote_smileys_content">¡Todos los emoticonos (emojis) pueden ser usados!</string>
 
     <!-- New --> 
-    <string name="noemailclientsinstalled">No Email Clients Installed</string>
-    <string name="sendemail">Send Email</string>
-    <string name="saved">Saved!</string>
-    <string name="settings_singleclickopen">Singletap</string>
-    <string name="settings_singleclickopenhint">Tap once to open note</string>
-    <string name="settings_autosave">Auto save</string>
-    <string name="settings_autosavehint">Press back to save a note</string>
-    <string name="settings_setpassword">Set A Password</string>
-    <string name="settings_changepassword">Change Your Password</string>
-    <string name="settings_nopasswordset">No password set</string>
-    <string name="settings_about">About</string>
-    <string name="settings_version">Version</string>
+    <string name="noemailclientsinstalled">Ningún cliente de correo instalado</string>
+    <string name="sendemail">Enviar Correo</string>
+    <string name="saved">¡Guardado!</string>
+    <string name="settings_singleclickopen">Presiona</string>
+    <string name="settings_singleclickopenhint">Tocar una vez para abrir la nota</string>
+    <string name="settings_autosave">Autoguardado</string>
+    <string name="settings_autosavehint">Presiona atrás para guardar una nota</string>
+    <string name="settings_setpassword">Establecer Contraseña</string>
+    <string name="settings_changepassword">Cambiar Contraseña</string>
+    <string name="settings_nopasswordset">No hay contraseña</string>
+    <string name="settings_about">Acerca</string>
+    <string name="settings_version">Versión</string>
     <string name="settings_cards_normal">Normal</string>
 
 </resources>
