@@ -19,7 +19,7 @@
     <!-- Start Setup -->
     <string name="title_activity_first">FirstActivity</string>
     <string name="first_needtocompletetutorial">You need to complete the setup!</string>
-    <string name="first_welcome">Welcome</string>
+    <string name="first_welcome">Bienvenido</string>
     <string name="first_welcometo">to Notes!</string>
     <string name="first_setpassword">Set A Password!</string>
     <string name="first_beforeyoustart">Before You Start</string>
