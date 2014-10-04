@@ -11,8 +11,8 @@ For anyone who want to help translating the app.
 
 
 ### How to help:
-1. Download ZIP (to the right on the screen)
-2. Unzip folders
+1. Download ZIP (to the right on the screen) or clone repository.
+2. Unzip folders (if you downloaded the zip)
 3. Go into values-en (or your preferred language to translate from)
 4. Copy all files to a new folder ('values-se' for swedish, 'values-es' for spanish etc.)
 5. Open .xml files in notepad or any other texteditor.
