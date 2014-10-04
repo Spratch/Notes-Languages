@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="widget_create">Utwórz Widget</string>
+    <string name="widget_create">Utwórz Widget</string> 
     <string name="widget_dividers">Pokaż rozdzielacze</string>
     <string name="widget_header">Pokaż nagłówek</string>
     <string name="widget_config_title_color">Kolor tytułu (#XXXXXX)</string>
