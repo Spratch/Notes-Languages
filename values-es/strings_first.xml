@@ -17,7 +17,7 @@
     <string name="to">Para</string>
 
     <!-- Start Setup -->
-    <string name="title_activity_first">Primer Actividad</string>
+    <string name="title_activity_first">FirstActivity</string>
     <string name="first_needtocompletetutorial">¡Tienes que completar la configuración!</string>
     <string name="first_welcome">¡Bienvenido</string>
     <string name="first_welcometo">a Notas!</string>
@@ -26,6 +26,6 @@
     <string name="first_youneedto1">Establece una contraseña</string>
     <string name="first_youneedto2">Adapta tu estilo favorito</string>
     <string name="first_favoritestyle">Elige tu estilo</string>
-    <string name="first_done">Done</string>
+    <string name="first_done">Hecho</string>
 
 </resources>
