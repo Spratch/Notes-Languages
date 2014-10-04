@@ -2,6 +2,10 @@ Notes
 ===========
 For anyone who want to help translating the app. 
 
+##### Update 4 oct 2014
+There is now an official crowdin where you can help! :)
+* [https://crowdin.com/project/notes-beta](Link to Crowdin)
+
 #### Currently Available:
 * English (values-en)
 * Spanish (values-es)
