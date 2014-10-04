@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?> 
 <resources>
     <!-- Development strings (No need to translate these) -->
     <string name="helloworld">Привет, Мир</string>
