@@ -24,7 +24,7 @@
     <string name="examplenote_smileys">Glöm inte att lé! ☺</string>
     <string name="examplenote_smileys_content">Alla emojis kan användas! ☺ ☺</string>
 
-    <!-- New -->
+    <!-- New --> 
     <string name="noemailclientsinstalled">Ingen e-post app installerad!</string>
     <string name="sendemail">Skicka Epost</string>
     <string name="saved">Sparat!</string>

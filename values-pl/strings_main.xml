@@ -24,7 +24,7 @@
     <string name="examplenote_smileys">Nie zapomnij się uśmiechnąć! ☺</string>
     <string name="examplenote_smileys_content">Wszyskie emotki (emojis) mogą zostać użyte!</string>
 
-    <!-- New -->
+    <!-- New --> 
     <string name="noemailclientsinstalled">No email clients installed!</string>
     <string name="sendemail">Send Email</string>
     <string name="saved">Saved!</string>

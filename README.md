@@ -11,11 +11,8 @@ For anyone who want to help translating the app.
 
 
 #### How to help:
-1. Download ZIP (to the right on the screen) or clone repository.
-2. Unzip folders (if you downloaded the zip)
-3. Go into values-en (or your preferred language to translate from)
-4. Copy all files to a new folder ('values-se' for swedish, 'values-es' for spanish etc.)
-5. Open .xml files in notepad or any other texteditor.
-6. Translate
-7. Email me (notes.jonasb@gmail.com) or push to this repo.
-8. Stay awesome.
+1. Open a folder you can translate that has "TRANSLATION NEEDED" as latest commit message.
+2. Open each .xml by clicking them and then edit (a pen icon on the top right side)
+3. Translate
+4. Download and Email me (notes.jonasb_at_gmail.com) or push to this repo.
+5. Stay awesome.
