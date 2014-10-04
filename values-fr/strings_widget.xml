@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_create">Create Widget</string>
+    <string name="widget_dividers">Show Dividers</string>
+    <string name="widget_header">Show Header</string>
+    <string name="widget_config_title_color">Title Color (#XXXXXX)</string>
+    <string name="widget_config_hint_color">Hint Color (#XXXXXX)</string>
+    <string name="widget_nosuchcolor">No such color!</string>
+</resources>
