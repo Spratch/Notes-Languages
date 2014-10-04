@@ -8,6 +8,7 @@ For anyone who want to help translating the app.
 * Swedish (values-se)
 * Polish (values-pl)
 * Italian (values-it)
+* Russian (values-ru)
 
 
 #### How to help:
