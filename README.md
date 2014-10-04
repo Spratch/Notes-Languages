@@ -9,6 +9,7 @@ For anyone who want to help translating the app.
 * Polish (values-pl)
 * Italian (values-it)
 * Russian (values-ru)
+* Portuguese, Brazil (values-pt-br)
 
 
 #### How to help:
