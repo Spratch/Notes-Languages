@@ -12,9 +12,8 @@ There is now an official crowdin where you can help! :)
 * Swedish (values-se)
 * Polish (values-pl)
 * Italian (values-it)
-* Russian (values-ru)
+* Russian (values-ru) (Thank you [arbi97](https://github.com/arbi97))
 * Portuguese, Brazil (values-pt-br)
-
 
 #### How to help:
 1. Open a folder you can translate that has "TRANSLATION NEEDED" as latest commit message.
