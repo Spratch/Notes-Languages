@@ -2,30 +2,30 @@
 <resources>
 
     <!-- Backup Screen -->
-    <string name="widget_plusbutton">Show +</string>
-    <string name="backup">Backup needed!</string>
-    <string name="backup_msg">A backup is needed because the recent update has made changes to the database. Backup all your notes to keep them.</string>
-    <string name="backup_question">Where would you like to save your notes?</string>
-    <string name="backup_tonew">New Database</string>
-    <string name="backup_share">Share Notes + New Database</string>
-    <string name="backup_complete">Backup complete!</string>
-    <string name="backup_error">You must backup before you continue!</string>
-    <string name="backup_items">items</string>
-    <string name="backup_warning">Warning!</string>
-    <string name="backup_continue">CONTINUE</string>
-    <string name="backup_error_couldnotcreatedb">Could not create database! Please Reinstall</string>
-    <string name="to">To</string>
+    <string name="widget_plusbutton">Mostrar +</string>
+    <string name="backup">¡Copia de seguridad necesaria!</string>
+    <string name="backup_msg">Es necesario realizar una copia de seguridad porque la reciente actualización efectuó cambios en la base de datos. Asegura tus notas para mantenerlas.</string>
+    <string name="backup_question">¿Donde quieres guardar tus notas?</string>
+    <string name="backup_tonew">Nueva Base de Datos</string>
+    <string name="backup_share">Compartir Notas + Nueva Base de Datos</string>
+    <string name="backup_complete">¡Copia de Seguridad Completa!</string>
+    <string name="backup_error">¡Tienes que hacer una copia de seguridad antes de continuar!</string>
+    <string name="backup_items">Objetos</string>
+    <string name="backup_warning">¡Advertencia!</string>
+    <string name="backup_continue">CONTINUA</string>
+    <string name="backup_error_couldnotcreatedb">¡No se puede crear base de datos! Por favor reinstala</string>
+    <string name="to">Para</string>
 
     <!-- Start Setup -->
-    <string name="title_activity_first">FirstActivity</string>
-    <string name="first_needtocompletetutorial">You need to complete the setup!</string>
-    <string name="first_welcome">Bienvenido</string>
-    <string name="first_welcometo">to Notes!</string>
-    <string name="first_setpassword">Set A Password!</string>
-    <string name="first_beforeyoustart">Before You Start</string>
-    <string name="first_youneedto1">Set a password</string>
-    <string name="first_youneedto2">Set your favorite style</string>
-    <string name="first_favoritestyle">Choose your style</string>
+    <string name="title_activity_first">Primer Actividad</string>
+    <string name="first_needtocompletetutorial">¡Tienes que completar la configuración!</string>
+    <string name="first_welcome">¡Bienvenido</string>
+    <string name="first_welcometo">a Notas!</string>
+    <string name="first_setpassword">¡Establecer Contraseña!</string>
+    <string name="first_beforeyoustart">Antes de empezar</string>
+    <string name="first_youneedto1">Establece una contraseña</string>
+    <string name="first_youneedto2">Adapta tu estilo favorito</string>
+    <string name="first_favoritestyle">Elige tu estilo</string>
     <string name="first_done">Done</string>
 
 </resources>
