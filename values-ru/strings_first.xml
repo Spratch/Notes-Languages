@@ -2,30 +2,30 @@
 <resources>
 
     <!-- Backup Screen -->
-    <string name="widget_plusbutton">Show +</string>
-    <string name="backup">Backup needed!</string>
-    <string name="backup_msg">A backup is needed because the recent update has made changes to the database. Backup all your notes to keep them.</string>
-    <string name="backup_question">Where would you like to save your notes?</string>
-    <string name="backup_tonew">New Database</string>
-    <string name="backup_share">Share Notes + New Database</string>
-    <string name="backup_complete">Backup complete!</string>
-    <string name="backup_error">You must backup before you continue!</string>
-    <string name="backup_items">items</string>
-    <string name="backup_warning">Warning!</string>
-    <string name="backup_continue">CONTINUE</string>
-    <string name="backup_error_couldnotcreatedb">Could not create database! Please Reinstall</string>
-    <string name="to">To</string>
+    <string name="widget_plusbutton">Показать</string>
+    <string name="backup">Необходимо резервное копирование!</string>
+    <string name="backup_msg">Резервная копия необходима потому, что последние обновления были внесены в базу данных. Сохраните все ваши заметки, чтобы держать их.</string>
+    <string name="backup_question">Где вы хотите сохранить ваши заметки?</string>
+    <string name="backup_tonew">Новая база данных</string>
+    <string name="backup_share">Поделиться заметками + новую базу данных</string>
+    <string name="backup_complete">Резервное копирование успешно сделан!</string>
+    <string name="backup_error">Вы должны сделать резервное копирование, перед тем, как продолжить!</string>
+    <string name="backup_items">Предметы</string>
+    <string name="backup_warning">Предупреждение!</string>
+    <string name="backup_continue">Продолжить</string>
+    <string name="backup_error_couldnotcreatedb">Не удалось создать новую базу данных! Пожалуйста, переустановите.</string>
+    <string name="to">В</string>
 
     <!-- Start Setup -->
-    <string name="title_activity_first">FirstActivity</string>
-    <string name="first_needtocompletetutorial">You need to complete the setup!</string>
-    <string name="first_welcome">Welcome</string>
-    <string name="first_welcometo">to Notes!</string>
-    <string name="first_setpassword">Set A Password!</string>
-    <string name="first_beforeyoustart">Before You Start</string>
-    <string name="first_youneedto1">Set a password</string>
-    <string name="first_youneedto2">Set your favorite style</string>
-    <string name="first_favoritestyle">Choose your style</string>
-    <string name="first_done">Done</string>
+    <string name="title_activity_first">Первая активация</string>
+    <string name="first_needtocompletetutorial">Вы должны завершить установку!</string>
+    <string name="first_welcome">Добро пожаловать</string>
+    <string name="first_welcometo">в Заметки!</string>
+    <string name="first_setpassword">Установите пароль!</string>
+    <string name="first_beforeyoustart">До того, как вы начнете</string>
+    <string name="first_youneedto1">Установите пароль</string>
+    <string name="first_youneedto2">Укажите ваш любимый стиль</string>
+    <string name="first_favoritestyle">Выберите свой стиль</string>
+    <string name="first_done">Готово</string>
 
 </resources>
