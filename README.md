@@ -18,7 +18,6 @@ For anyone who want to help translating the app.
 5. Stay awesome.
 
 #### Links:
-[GitHub Page](http://jonasborggren.github.io/Notes-Languages)
-
-[G+ Community](https://plus.google.com/communities/115783926707972963445)
+* [GitHub Page](http://jonasborggren.github.io/Notes-Languages)
+* [G+ Community](https://plus.google.com/communities/115783926707972963445)
 
