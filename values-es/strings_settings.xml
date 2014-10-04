@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_display_name">Mostrar Nombre</string>
+    <string name="pref_default_display_name">Jonas Borggren</string>
+    <string name="pref_header_security">Seguridad</string>
+
+    <string name="settings_general">General</string>
+    <string name="settings_account">Cuenta</string>
+    <string name="settings_enabled">Habilitado</string>
+    <string name="settings_disabled">Deshabilitado</string>
+
+    <string name="settings_comingSoon">¡Próximamente!</string>
+
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_cards">Cards-UI</string>
+
+    <string name="settings_ok">Ok</string>
+    <string name="settings_cancel">Cancelar</string>
+    <string name="settings_on">Encendido</string>
+    <string name="settings_off">Apagado</string>
+
+    <string name="settings_animations">Animaciones (Experimental)</string>
+    <string name="settings_secutity">Seguridad</string>
+    <string name="settings_password">Cambiar contraseña</string>
+    <string name="settings_securityquestion">Pregunta de seguridad</string>
+    <string name="settings_online">Modo Offline</string>
+    <string name="settings_currentlyOnline">Actualmente Online</string>
+    <string name="settings_currentlyOffline">Actualmente Offline</string>
+
+    <string name="settings_oldPassword">Antigua contraseña</string>
+    <string name="settings_question_title">Pregunta de seguridad</string>
+    <string name="settings_setyourpassword">Por defecto: 1234</string>
+    <string name="settings_securityquestion_summary">Mes y día de nacimiento de uno de sus padres (MMDD)</string>
+
+    <string name="settings_question_choose">Elegir</string>
+    <string name="settings_question_choose_passwordorquestion">¿Cambiar contraseña o pregunta de seguridad?</string>
+    <string name="settings_newQuestion">Nueva respuesta a la pregunta de seguridad</string>
+    <string name="settings_newPassword">Nueva contraseña</string>
+    <string name="settings_passwordtooshort">¡Contraseña demasiado corta!</string>
+
+    <string name="settings_help">Por defecto: 1234</string>
+</resources>

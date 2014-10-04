@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_pw">Lösenord</string>
+    <string name="dialog_newpw">Nytt lösenord</string>
+    <string name="dialog_last4digits">4 sista siffrorna på ditt kreditkort</string>
+    <string name="error_wrongpassword">Fel Lösenord</string>
+    <string name="dialog_save">Spara?</string>
+</resources>

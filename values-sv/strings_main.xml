@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anteckningar</string>
+    <string name="delete">Radera</string>
+    <string name="cancel">Avbryt</string>
+    <string name="save">Spara</string>
+    <string name="empty">Tomt!</string>
+    <string name="yournotes">Dina Anteckningar</string>
+    <string name="addnewnote">Skapa Ny Anteckning!</string>
+    <string name="notes">Anteckningar</string>
+    <string name="discard">Kasta</string>
+
+    <string name="noemailclientsinstalled">Ingen e-post app installerad!</string>
+    <string name="share">Dela</string>
+    <string name="sendemail">Skicka Epost</string>
+    <string name="saved">Sparat!</string>
+
+    <string name="examplenote_welcome">Välkommen!</string>
+    <string name="examplenote_welcome_content">Välkommen till Anteckningar! Kolla G+ gruppen för information!</string>
+    <string name="examplenote_tag">Lösenord</string>
+    <string name="examplenote_password">Glöm inte att ställa in ett lösenord!</string>
+    <string name="examplenote_password_content">I iställningarna kan man ställa in ett lösenord!</string>
+    <string name="examplenote_smileys">Glöm inte att lé! ☺</string>
+    <string name="examplenote_smileys_content">Alla emojis kan användas! ☺ ☺</string>
+</resources>

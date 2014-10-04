@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_create">Crea un Widget</string>
+    <string name="widget_dividers">Mostra i Divisori</string>
+    <string name="widget_header">Mostra Intestazione</string>
+    <string name="widget_config_title_color">Colore del titolo (#XXXXXX)</string>
+    <string name="widget_config_hint_color">Colore del Suggerimento (#XXXXXX)</string>
+    <string name="widget_nosuchcolor">Non esiste quel colore!</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_writesomething">Skriv någonting..</string>
+    <string name="edit_tag">Tagg</string>
+    <string name="edit_title">Titel</string>
+
+    <string name="hide_titlebar">Dölj Titelfält</string>
+    <string name="show_titlebar">Visa Titelfält</string>
+
+    <string name="edit_noteemptynotsaving">Tom Anteckning</string>
+    <string name="edit_private">Privat</string>
+    <string name="edit_public">Publik</string>
+    <string name="edit_needtosetpw">Du måste ställa in lösenord först!</string>
+</resources>

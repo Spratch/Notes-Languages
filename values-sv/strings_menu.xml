@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_help">Hjälp</string>
+    <string name="menu_delete">Ta bort</string>
+    <string name="menu_remove">Ta bort</string>
+    <string name="menu_settings">Inställningar</string>
+    <string name="menu_save">Spara</string>
+    <string name="menu_add">Ny Anteckning</string>
+    <string name="menu_droptable">Drop table</string>
+    <string name="menu_refresh">Uppdatera</string>
+    <string name="menu_lock">Gör anteckning privat</string>
+    <string name="menu_updatewidget">Uppdatera Widget</string>
+    <string name="menu_account">Konto</string>
+    <string name="menu_login">Logga in</string>
+    <string name="menu_logout">Logga ut</string>
+    <string name="menu_share">Dela</string>
+</resources>

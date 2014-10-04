@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Development strings (No need to translate these) -->
+    <string name="helloworld">Hello World</string>
+
+    <!-- App -->
+    <string name="app_name">Notes</string>
+    <string name="notes">Notes</string>
+
+    <!-- Allround usage -->
+    <string name="save">Save</string>
+    <string name="empty">Empty!</string>
+    <string name="yournotes">Your notes</string>
+    <string name="addnewnote">Add New Note</string>
+    <string name="discard">Disard</string>
+
+    <string name="noemailclientsinstalled">No email clients installed!</string>
+    <string name="share">Share</string>
+    <string name="sendemail">Send Email</string>
+    <string name="saved">Saved!</string>
+
+    <string name="examplenote_welcome">Welcome!</string>
+    <string name="examplenote_welcome_content">Welcome to Notes! Be sure to check the community for updates!</string>
+    <string name="examplenote_tag">Passwords</string>
+    <string name="examplenote_password">Don\'t Forget The Password!</string>
+    <string name="examplenote_password_content">You can set a password in the settings!</string>
+    <string name="examplenote_smileys">Don\'t Forget To Smile! ☺</string>
+    <string name="examplenote_smileys_content">All android emojis can be used!</string>
+</resources>

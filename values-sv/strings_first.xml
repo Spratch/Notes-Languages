@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="first_needtocompletetutorial">Du måste slutföra startguiden!</string>
+    <string name="first_welcome">Välkommen</string>
+    <string name="first_welcometo">till Anteckningar!</string>
+    <string name="first_setpassword">Välj Lösenord!</string>
+    <string name="first_beforeyoustart">Innan Du Fortsätter</string>
+    <string name="first_youneedto1">Välj Lösenord</string>
+    <string name="first_youneedto2">Välj Stil</string>
+    <string name="first_favoritestyle">Välj Stil</string>
+    <string name="first_done">Färdig</string>
+
+</resources>

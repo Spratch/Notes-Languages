@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_yourname">Namn</string>
+    <string name="login_a_tobe">För att bli</string>
+    <string name="login_a_smarter">Smartare</string>
+    <string name="login_a_tobecome">För att åstadkomma</string>
+    <string name="login_a_moreefficient">Större effektivitet</string>
+    <string name="login_a_tosave">För att spara anteckningar online</string>
+    <string name="login_a_login">Logga in nu!</string>
+    <string name="login_skip"><u>Skippa »</u></string>
+    <string name="btn_logout_from_google">Logga ut</string>
+    <string name="btn_revoke_access">Återkalla rättigheter</string>
+</resources>

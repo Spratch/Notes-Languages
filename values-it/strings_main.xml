@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="delete">Elimina</string>
+    <string name="cancel">Annulla</string>
+    <string name="save">Salva</string>
+    <string name="empty">Vuoto!</string>
+    <string name="yournotes">Le tue note</string>
+    <string name="addnewnote">Aggiungi una Nuova Nota</string>
+    <string name="notes">Note</string>
+    <string name="discard">Scarta</string>
+
+    <string name="noemailclientsinstalled">Nessun client email installato!</string>
+    <string name="menu_share">Condividi</string>
+    <string name="share">Condividi</string>
+    <string name="sendemail">Invia Email</string>
+    <string name="saved">Salvato!</string>
+
+    <string name="examplenote_welcome">Benvenuto!</string>
+    <string name="examplenote_welcome_content">Benvenuto in Notes! Assicurati di controllare la comunità di Google+ per gli aggiornamenti!</string>
+    <string name="examplenote_tag">Password</string>
+    <string name="examplenote_password">Non Dimenticare La Password!</string>
+    <string name="examplenote_password_content">Puoi impostare una password nelle impostazioni!</string>
+    <string name="examplenote_smileys">Non Dimenticare Di Sorridere! ☺</string>
+    <string name="examplenote_smileys_content">Tutte le emoji di android possono essere usate!</string>
+</resources>

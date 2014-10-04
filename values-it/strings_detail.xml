@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_writesomething">Scrivi Qualcosa..</string>
+    <string name="edit_tag">Tag</string>
+    <string name="edit_title">Titolo</string>
+
+    <string name="hide_titlebar">Nascondi barra del titolo</string>
+    <string name="show_titlebar">Mostra barra del titolo</string>
+
+    <string name="edit_noteemptynotsaving">Nota vuota</string>
+    <string name="edit_private">Privato</string>
+    <string name="edit_public">Pubblico</string>
+    <string name="edit_needtosetpw">Devi prima impostare una password!</string>
+</resources>

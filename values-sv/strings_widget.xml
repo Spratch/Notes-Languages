@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_create">Skapa Widget</string>
+    <string name="widget_dividers">Visa Avdelare</string>
+    <string name="widget_header">Visa Rubrik</string>
+    <string name="widget_config_title_color">Titelfärg (#XXXXXX)</string>
+    <string name="widget_config_hint_color">Textfärg (#XXXXXX)</string>
+    <string name="widget_nosuchcolor">Obefintlig färg!</string>
+</resources>

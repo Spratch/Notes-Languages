@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_yourname">Nome</string>
+    <string name="login_a_tobe">Per essere</string>
+    <string name="login_a_smarter">Più intelligente</string>
+    <string name="login_a_tobecome">Per diventare</string>
+    <string name="login_a_moreefficient">Più efficiente</string>
+    <string name="login_a_tosave">Per salvare le tue note online</string>
+    <string name="login_a_login">Accedi adesso!</string>
+    <string name="login_skip"><u>Salta »</u></string>
+    <string name="btn_logout_from_google">Esci</string>
+    <string name="btn_revoke_access">Revoca l\'Accesso</string>
+</resources>

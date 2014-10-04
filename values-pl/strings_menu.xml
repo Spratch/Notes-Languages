@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_help">Pomoc</string>
+    <string name="menu_delete">Skasuj</string>
+    <string name="menu_remove">Usuń</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_save">Zapisz</string>
+    <string name="menu_add">Dodaj notatkę</string>
+    <string name="menu_droptable">Drop table</string>
+    <string name="menu_refresh">Odśwież</string>
+    <string name="menu_lock">Zrób notatkę prywatną</string>
+    <string name="menu_updatewidget">Aktualizuj Widget</string>
+    <string name="menu_account">Konto</string>
+    <string name="menu_login">Zaloguj</string>
+    <string name="menu_logout">Wyloguj</string>
+</resources>

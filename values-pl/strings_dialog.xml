@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_pw">Hasło</string>
+    <string name="dialog_newpw">Nowe hasło</string>
+    <string name="dialog_last4digits">Ostatnie 4 numery twojej karty kredytowej</string>
+    <string name="error_wrongpassword">Błędne hasło</string>
+    <string name="dialog_save">Zapisać?</string>
+</resources>

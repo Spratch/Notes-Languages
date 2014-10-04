@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_help">Aiuto</string>
+    <string name="menu_delete">Elimina</string>
+    <string name="menu_remove">Rimuovi</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_save">Salva</string>
+    <string name="menu_add">Aggiungi una nuova nota</string>
+    <string name="menu_droptable">Drop table</string>
+    <string name="menu_refresh">Ricarica</string>
+    <string name="menu_lock">Rendi la nota privata</string>
+    <string name="menu_updatewidget">Aggiorna il Widget</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_login">Accedi</string>
+    <string name="menu_logout">Esci</string>
+</resources>

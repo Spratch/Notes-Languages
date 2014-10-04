@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notatki</string>
+    <string name="delete">Usuń</string>
+    <string name="cancel">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="empty">Pusto!</string>
+    <string name="yournotes">Twoje notatki</string>
+    <string name="addnewnote">Dodaj notatkę</string>
+    <string name="notes">Notatki</string>
+    <string name="share">Udostępnij</string>
+
+    <string name="discard">anuluj</string>
+
+    <string name="examplenote_welcome">Witaj!</string>
+    <string name="examplenote_welcome_content">Witaj w notatkach! Sprawdź naszą społeczność aby być na bieżąco!</string>
+    <string name="examplenote_tag">Hasła</string>
+    <string name="examplenote_password">Nie zapomnij swojego hasła!</string>
+    <string name="examplenote_password_content">Możesz ustalić hasło w ustawieniach!</string>
+    <string name="examplenote_smileys">Nie zapomnij się uśmiechnąć! ☺</string>
+    <string name="examplenote_smileys_content">Wszyskie emotki (emojis) mogą zostać użyte!</string>
+</resources>
