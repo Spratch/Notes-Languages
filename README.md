@@ -1,4 +1,10 @@
-For anyone who want to help translating the app.
+Notes
+===========
+For anyone who want to help translating the app. 
 
-
-### These are the currently available languages: ###
+#### Currently Available:
+* English (values-en)
+* Spanish (values-es)
+* Swedish (values-se)
+* Polish (values-pl)
+* Italian (values-it)
