@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Development strings (No need to translate these) -->
-    <string name="helloworld">Hello World</string>
-    <string name="settings_versionhint">VersionHint</string>
+    <string name="helloworld">Привет, Мир</string>
+    <string name="settings_versionhint">Версия</string>
 
     <!-- App -->
-    <string name="app_name">Notes</string>
-    <string name="notes">Notes</string>
+    <string name="app_name">Заметки</string>
+    <string name="notes">Заметки</string>
 
     <!-- Allround usage -->
-    <string name="save">Save</string>
-    <string name="empty">Empty!</string>
-    <string name="yournotes">Your notes</string>
-    <string name="addnewnote">Add New Note</string>
-    <string name="discard">Disard</string>
-    <string name="share">Share</string>
+    <string name="save">Сохранить</string>
+    <string name="empty">Пусто!</string>
+    <string name="yournotes">Ваши заметки</string>
+    <string name="addnewnote">Добавить новую заметку</string>
+    <string name="discard">Сброс</string>
+    <string name="share">Поделиться</string>
 
-    <string name="examplenote_welcome">Welcome!</string>
-    <string name="examplenote_welcome_content">Welcome to Notes! Be sure to check the community for updates!</string>
-    <string name="examplenote_tag">Passwords</string>
-    <string name="examplenote_password">Don\'t Forget The Password!</string>
-    <string name="examplenote_password_content">You can set a password in the settings!</string>
-    <string name="examplenote_smileys">Don\'t Forget To Smile! ☺</string>
-    <string name="examplenote_smileys_content">All android emojis can be used!</string>
+    <string name="examplenote_welcome">Добро пожаловать!</string>
+    <string name="examplenote_welcome_content">Добро пожаловать в Заметки! Не забывайте смотреть последние обновления в нашем сообществе!</string>
+    <string name="examplenote_tag">Пароль</string>
+    <string name="examplenote_password">Не забывайте пароль!</string>
+    <string name="examplenote_password_content">Вы можете поставить пароль в настройках!</string>
+    <string name="examplenote_smileys">Не забывайте улыбаться! ☺</string>
+    <string name="examplenote_smileys_content">Все виды Эмодзи могут быть использованы!</string>
 
     <!-- New -->
-    <string name="noemailclientsinstalled">No email clients installed!</string>
-    <string name="sendemail">Send Email</string>
-    <string name="saved">Saved!</string>
-    <string name="settings_singleclickopen">Singletap</string>
-    <string name="settings_singleclickopenhint">Tap once to open note</string>
-    <string name="settings_autosave">Auto save</string>
-    <string name="settings_autosavehint">Press back to save a note</string>
-    <string name="settings_setpassword">Set A Password</string>
-    <string name="settings_changepassword">Change Your Password</string>
-    <string name="settings_nopasswordset">No password set</string>
-    <string name="settings_about">About</string>
-    <string name="settings_version">Version</string>
-    <string name="settings_cards_normal">Normal</string>
+    <string name="noemailclientsinstalled">Не установлены почтовые клиенты!</string>
+    <string name="sendemail">Оправить на e-mail</string>
+    <string name="saved">Сохранено!</string>
+    <string name="settings_singleclickopen">Одиночное нажатие</string>
+    <string name="settings_singleclickopenhint">Нажмите один раз, чтобы открыть заметку</string>
+    <string name="settings_autosave">Автосохранение</string>
+    <string name="settings_autosavehint">Нажмите кнопку "Назад", чтобы сохранинть</string>
+    <string name="settings_setpassword">Установить пароль</string>
+    <string name="settings_changepassword">Смените свой пароль</string>
+    <string name="settings_nopasswordset">Не установлен пароль</string>
+    <string name="settings_about">О программе</string>
+    <string name="settings_version">Версия</string>
+    <string name="settings_cards_normal">Обычный</string>
 
 </resources>
