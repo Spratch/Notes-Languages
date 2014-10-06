@@ -2,30 +2,30 @@
 <resources>
 
     <!-- Backup Screen -->
-    <string name="widget_plusbutton">Show +</string>
-    <string name="backup">Backup needed!</string>
-    <string name="backup_msg">A backup is needed because the recent update has made changes to the database. Backup all your notes to keep them.</string>
-    <string name="backup_question">Where would you like to save your notes?</string>
-    <string name="backup_tonew">New Database</string>
-    <string name="backup_share">Share Notes + New Database</string>
-    <string name="backup_complete">Backup complete!</string>
-    <string name="backup_error">You must backup before you continue!</string>
-    <string name="backup_items">items</string>
-    <string name="backup_warning">Warning!</string>
-    <string name="backup_continue">CONTINUE</string>
-    <string name="backup_error_couldnotcreatedb">Could not create database! Please Reinstall</string>
-    <string name="to">To</string>
+    <string name="widget_plusbutton">Pokaż +</string>
+    <string name="backup">Potrzebna kopia zapasowa!</string>
+    <string name="backup_msg">Potrzebna jest kopia zapasowa ponieważ najnowsze aktualizacje zastosowały zmiany w bazie danych. Skopiuj wszystkie notatki by je zachować.</string>
+    <string name="backup_question">Gdzie chciałbyś zapisać swoje notatki?</string>
+    <string name="backup_tonew">Nowa Baza Danych</string>
+    <string name="backup_share">Udostępnij Notatki + Nowa Baza Danych</string>
+    <string name="backup_complete">Kopia zapasowa zakończona!</string>
+    <string name="backup_error">Musisz utworzyć kopię zapasową zanim przejdziesz dalej!</string>
+    <string name="backup_items">Przedmioty</string>
+    <string name="backup_warning">Uwaga!</string>
+    <string name="backup_continue">KONTYNUUJ</string>
+    <string name="backup_error_couldnotcreatedb">Nie można utworzyć bazy danych! Proszę przeinstalować</string>
+    <string name="to">Do</string>
 
     <!-- Start Setup -->
     <string name="title_activity_first">FirstActivity</string>
-    <string name="first_needtocompletetutorial">You need to complete the setup!</string>
-    <string name="first_welcome">Welcome</string>
-    <string name="first_welcometo">to Notes!</string>
-    <string name="first_setpassword">Set A Password!</string>
-    <string name="first_beforeyoustart">Before You Start</string>
-    <string name="first_youneedto1">Set a password</string>
-    <string name="first_youneedto2">Set your favorite style</string>
-    <string name="first_favoritestyle">Choose your style</string>
-    <string name="first_done">Done</string>
+    <string name="first_needtocompletetutorial">Musisz ukończyć konfigurację!</string>
+    <string name="first_welcome">Witaj</string>
+    <string name="first_welcometo">w Notatkach!</string>
+    <string name="first_setpassword">Ustaw hasło!</string>
+    <string name="first_beforeyoustart">Zanim zaczniesz</string>
+    <string name="first_youneedto1">Ustaw hasło</string>
+    <string name="first_youneedto2">Ustaw swój ulubiony styl</string>
+    <string name="first_favoritestyle">Wybierz styl</string>
+    <string name="first_done">Gotowe</string>
 
 </resources>
