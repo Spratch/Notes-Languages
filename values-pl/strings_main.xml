@@ -13,7 +13,7 @@
     <string name="empty">Pusto!</string>
     <string name="yournotes">Twoje notatki</string>
     <string name="addnewnote">Dodaj notatkę</string>
-    <string name="discard">anuluj</string>
+    <string name="discard">Anuluj</string>
     <string name="share">Udostępnij</string>
 
     <string name="examplenote_welcome">Witaj!</string>
@@ -25,18 +25,18 @@
     <string name="examplenote_smileys_content">Wszyskie emotki (emojis) mogą zostać użyte!</string>
 
     <!-- New --> 
-    <string name="noemailclientsinstalled">No email clients installed!</string>
-    <string name="sendemail">Send Email</string>
-    <string name="saved">Saved!</string>
+    <string name="noemailclientsinstalled">Nie ma zainstalowanego klienta poczty!</string>
+    <string name="sendemail">Wyślij Email</string>
+    <string name="saved">Zapisano!</string>
     <string name="settings_singleclickopen">Singletap</string>
-    <string name="settings_singleclickopenhint">Tap once to open note</string>
-    <string name="settings_autosave">Auto save</string>
-    <string name="settings_autosavehint">Press back to save a note</string>
-    <string name="settings_setpassword">Set A Password</string>
-    <string name="settings_changepassword">Change Your Password</string>
-    <string name="settings_nopasswordset">No password set</string>
-    <string name="settings_about">About</string>
-    <string name="settings_version">Version</string>
+    <string name="settings_singleclickopenhint">Naciśnij aby otworzyć notatkę</string>
+    <string name="settings_autosave">Autozapis</string>
+    <string name="settings_autosavehint">Naciśnij wstecz by zapisać notatkę</string>
+    <string name="settings_setpassword">Ustaw hasło</string>
+    <string name="settings_changepassword">Zmień hasło</string>
+    <string name="settings_nopasswordset">Nie ma ustawionego hasła</string>
+    <string name="settings_about">O programie</string>
+    <string name="settings_version">Wersja</string>
     <string name="settings_cards_normal">Normal</string>
 
 </resources>
